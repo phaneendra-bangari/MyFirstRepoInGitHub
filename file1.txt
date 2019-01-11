@@ -1,2 +1,3 @@
 Hello ! This is file1 in GIT.
 Adding some more content in file1.txt
+This change is to test the new changes to be pushed to GITHUB. And, if password is asked or not.
